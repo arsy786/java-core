@@ -44,6 +44,8 @@ One must be familiar with ORM (Object-Relational Mapping) tools such as Spring D
 
 Link to: [SQL Basics Cheat Sheet (PDF)](sql-basics-cheat-sheet-ledger.pdf)
 <br>
+Link to: [MongoDB Cheat Sheet (PDF)](MongoDB-Dark.pdf)
+<br>
 Link to: [JDBC vs JPA vs Hibernate vs Spring Data JPA in 9 minutes (YouTube/JavaMaster)](https://www.youtube.com/watch?v=GX3D0OIFOhE)
 <br>
 
