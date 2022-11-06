@@ -17,7 +17,7 @@ This entire section is needed before attempting the Spring Boot Roadmap and is d
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Git](#1-git)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Logging/Documentation](#2-loggingdocumentation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Logging / Documentation](#2-logging--documentation)
 <br>
 
 ## i. Prerequisites
