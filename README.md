@@ -1,6 +1,6 @@
 # prerequisites-and-extra-tutorials
 
-This entire section is needed before attempting the Spring Boot Roadmap and is derived from: [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
+It is recommended that you understand the material here before attempting the main Spring Boot Roadmap sections. This section specifically is derived from: [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
 
 ![Java Roadmap](java-roadmap.png)
 
@@ -24,8 +24,8 @@ This entire section is needed before attempting the Spring Boot Roadmap and is d
 
 ### 1. Java Core
 
-It is critical that you understand the programming language of the framework you are trying to specialise in.
-Spring Boot is an open source Java-based framework therefore you must know Java beforehand.
+It is important to understand the programming language of the framework you are trying to learn.
+Spring Boot is an open source Java-based framework therefore you must be familiar with Java beforehand.
 
 For Java, it is important to understand many concepts. This includes: OOP, Interfaces, Variables, Classes, Loops, Inheritance, Datastructures etc.
 
@@ -38,9 +38,13 @@ Link to: [Learn Java in 14 Minutes (YouTube/AlexLee)](https://www.youtube.com/wa
 
 ### 2. Databases
 
-A full stack developer must work with databases. A database in a web application is a way of storing and organise the data for your project. There are many types of databases to learn, but here are a few popular ones: SQL, MySQL, NoSQL and MongoDB.
+A full stack developer must be familiar with backend development and more specifically, databases. A database in a web application is a way of storing and organising the data for your application. There are many types of databases to learn, but here are a few popular ones: SQL, MySQL, NoSQL and MongoDB.
 
-One must be familiar with ORM (Object-Relational Mapping) tools such as Spring Data JPA or Hibernate. You must also be familiar with SQL commands and JDBC (Java Database Connectivity).
+One must be familiar with ORM (Object-Relational Mapping) tools such as Spring Data JPA or Hibernate. You must know JDBC (Java Database Connectivity) also.
+
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS).
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
 Link to: [SQL Basics Cheat Sheet (PDF)](sql-basics-cheat-sheet-ledger.pdf)
 <br>
@@ -63,9 +67,9 @@ Link to: [What Is Maven? (YouTube/Simplilearn)](https://www.youtube.com/watch?v=
 
 ### 1. Git
 
-Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+Git is a free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
-Git can be used in the Terminal therefore it is ideal to be familiar with Linux/UNIX bash commands. 
+GitHub and Git commands can be used in the Terminal therefore it is ideal to be familiar with Linux/UNIX bash commands. 
 
 Link to: [Bash Cheat Sheet (GitHub)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 <br>
