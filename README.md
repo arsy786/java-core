@@ -67,7 +67,7 @@ Git is free and open source software for distributed version control: tracking c
 
 Git can be used in the Terminal therefore it is ideal to be familiar with Linux/UNIX bash commands. 
 
-Link to: [Unix Quick Reference (PDF)](UNIX_QuickReference.docx)
+Link to: [Bash Cheat Sheet (GitHub)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 <br>
 Link to: [What is Git? Explained in 2 Minutes! (YouTube/ProgrammingWithMosh)](https://www.youtube.com/watch?v=2ReR1YJrNOM)
 <br>
