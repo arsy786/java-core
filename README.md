@@ -1,7 +1,7 @@
 # prerequisites-and-extra-tutorials
 
 It is recommended that you understand the material here before attempting the main Spring Boot Roadmap sections. 
-This section specifically is derived from: [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
+This section specifically is derived from: [How To Master Java - Java for Beginners Roadmap (YouTube/AmigosCode)](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
 
 ![Java Roadmap](java-roadmap.png)
 
@@ -32,7 +32,7 @@ For Java, it is important to understand many concepts. This includes: OOP, Inter
 
 <ins>Supporting Material
 
-[Java Core Guide (PDF)](Java_QuickReference_v1.1.pdf)
+[Java Core Guide (PDF/ArsalaanNaeem)](Java_QuickReference_v1.1.pdf)
 <br>
 [Java Full Course (YouTube/AmigosCode)](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 <br>
@@ -51,9 +51,9 @@ MongoDB is a source-available cross-platform document-oriented database program.
 
 <ins>Supporting Material
 
-[SQL Basics Cheat Sheet (PDF)](sql-basics-cheat-sheet-ledger.pdf)
+[SQL Basics Cheat Sheet (PDF/LearnSQL)](sql-basics-cheat-sheet-ledger.pdf)
 <br>
-[MongoDB Cheat Sheet (PDF)](MongoDB-Dark.pdf)
+[MongoDB Cheat Sheet (PDF/WebDevSimplified)](MongoDB-Dark.pdf)
 <br>
 [JDBC vs JPA vs Hibernate vs Spring Data JPA in 9 minutes (YouTube/JavaMaster)](https://www.youtube.com/watch?v=GX3D0OIFOhE)
 <br>
@@ -80,9 +80,9 @@ GitHub and Git commands can be used in the Terminal therefore it is ideal to be 
 
 <ins>Supporting Material
 
-[Bash Cheat Sheet (GitHub)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+[Bash Cheat Sheet (GitHub/RehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 <br>
-[Git Cheat Sheet (PDF)](git-cheat-sheet.pdf)
+[Git Cheat Sheet (PDF/GitHubEducation)](git-cheat-sheet.pdf)
 <br>
 [What is Git? Explained in 2 Minutes! (YouTube/ProgrammingWithMosh)](https://www.youtube.com/watch?v=2ReR1YJrNOM)
 <br>
