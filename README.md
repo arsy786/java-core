@@ -50,7 +50,7 @@ SQL is a domain-specific language used in programming and designed for managing 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
 <ins>Supporting Material
-<br>
+
 [SQL Basics Cheat Sheet (PDF/LearnSQL)](sql-basics-cheat-sheet-ledger.pdf)
 <br>
 [MongoDB Cheat Sheet (PDF/WebDevSimplified)](MongoDB-Dark.pdf)
@@ -81,7 +81,7 @@ GitHub and Git commands can be used in the Terminal therefore it is ideal to be 
 <ins>Supporting Material
 
 [UNIX Quick Reference (PDF/XXX)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/UNIX_QuickReference.pdf)
-
+<br>
 [Bash Cheat Sheet (GitHub/RehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 <br>
 [Git Cheat Sheet (PDF/GitHubEducation)](git-cheat-sheet.pdf)
