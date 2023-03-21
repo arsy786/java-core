@@ -80,6 +80,8 @@ GitHub and Git commands can be used in the Terminal therefore it is ideal to be 
 
 <ins>Supporting Material
 
+[UNIX Quick Reference (PDF/XXX)](https://github.com/arsy786/prerequisites-and-extra-tutorials/blob/main/UNIX_QuickReference.pdf)
+
 [Bash Cheat Sheet (GitHub/RehanSaeed)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 <br>
 [Git Cheat Sheet (PDF/GitHubEducation)](git-cheat-sheet.pdf)
