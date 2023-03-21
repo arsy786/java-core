@@ -50,7 +50,7 @@ SQL is a domain-specific language used in programming and designed for managing 
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
 
 <ins>Supporting Material
-
+<br>
 [SQL Basics Cheat Sheet (PDF/LearnSQL)](sql-basics-cheat-sheet-ledger.pdf)
 <br>
 [MongoDB Cheat Sheet (PDF/WebDevSimplified)](MongoDB-Dark.pdf)
